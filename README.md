@@ -5,8 +5,12 @@
 * Open `index.html` in web browser of your choice
 
 ### View PDF version
-* Coming soon
-* We'll also export a final pdf version for submission to AMIA
+_requires npm_
+* Clone repo
+* install npm (if not already done): `brew install node`
+* `make setup`
+* `make export.pdf`
+* View file.
 
 ## Content Timeline
 * **11/15**: slides due to AMIA
