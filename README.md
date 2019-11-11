@@ -16,5 +16,5 @@ _requires npm_
 * **11/15**: slides due to AMIA
 * **11/13**: final review and export
 * **11/11**: draft slides to be posted
-* **11/8**: outline posted
+* **11/8**: outline posted ✅
 * **11/5**: repo created ✅
